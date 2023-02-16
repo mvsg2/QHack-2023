@@ -7,6 +7,6 @@ Our team members:
 
 [Mikhaela-Paige Early](https://github.com/Mikhaela-Paige) <br>
 
-[Pratishta Abrol](https://www.linkedin.com/in/pratishtha-abrol/) <br>
+[Pratishtha Abrol](https://www.linkedin.com/in/pratishtha-abrol/) <br>
 
 [Sai Ganesh Manda](https://github.com/mvsg2/) <br>
