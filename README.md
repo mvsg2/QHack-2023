@@ -5,8 +5,6 @@ Check out the [QHack website](https://qhack.ai/) for more information!
 
 Our team members:
 
-[Marcos Perez](https://www.linkedin.com/in/marcos-quintas-p%C3%A9rez-749916248/) <br>
-
 [Mikhaela-Paige Early](https://github.com/Mikhaela-Paige) <br>
 
 [Pratishta Abrol](https://www.linkedin.com/in/pratishtha-abrol/) <br>
