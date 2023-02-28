@@ -5,6 +5,8 @@ Check out the [QHack website](https://qhack.ai/) for more information!
 
 Our team members:
 
+[Amanda Steigerwalt](https://github.com/asteig) <br>
+
 [Mikhaela-Paige Early](https://github.com/Mikhaela-Paige) <br>
 
 [Pratishtha Abrol](https://github.com/pratishtha-abrol) <br>
